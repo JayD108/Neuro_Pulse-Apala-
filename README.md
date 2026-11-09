@@ -281,3 +281,11 @@ For every detail of the pipeline, the model and the results, read [`Docs/report.
   *The Rigveda* (Oxford University Press, 2014).
 
 > APALA is a research project. It is not a medical device and must not be used for clinical decisions.
+
+## Author
+
+Mrittunjay Dubey, GitHub [@JayD108](https://github.com/JayD108)
+
+## License
+
+No license file is included yet, so all rights are reserved by default.
